@@ -2,7 +2,7 @@
   <img src="https://ghp.ci/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New.png" alt="NEW IPTV">
 </p>
 
-<h1 align="center"><img src="https://ghp.ci/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New_IPTV_Logo.png" alt="reddit" width="19" height="19" /> New IPTV</h1>
+<h1 align="center"><img src="https://ghp.ci/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New_IPTV_Logo.png" alt="reddit" width="25" height="19" /> New IPTV</h1>
 
 <h1 align="center">项目建设中，稍后再来看看吧 ~~</h1>
 
