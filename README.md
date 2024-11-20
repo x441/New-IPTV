@@ -8,4 +8,4 @@
 
 <p align="center">一个普普通通的IPTV源、EPG节目信息、台标收集仓库</p>
 
->最后更新于 <h1 align="right">2024.11.20</h1>
+>数据类最后更新于 <p align="right">2024.11.20</p>
