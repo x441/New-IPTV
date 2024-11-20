@@ -1,4 +1,7 @@
-<p align="right">中文 | [English](README.md)
+<p align="center">中文 | 
+  <a href="/README.md">
+English
+  </a>
 </p>
 
 <h1 align="center"><img src="https://ghp.ci/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New_IPTV_Logo.png" alt="reddit" width="35" height="25" /> New IPTV</h1>
