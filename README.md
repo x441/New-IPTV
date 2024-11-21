@@ -1,12 +1,12 @@
 <p align="right">中文 | 
-  <a href="/README.md">
+  <a href="/README_En.md">
 English
   </a>
 </p>
 
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New_IPTV_Logo.png" alt="logo" width="35" height="25" /> New IPTV</h1>
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/x441/New-IPTV@latest/refs/heads/main/docs/img/New_IPTV_Logo.png" alt="logo" width="35" height="25" /> New IPTV</h1>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/raw.githubusercontent.com/x441/New-IPTV/refs/heads/main/docs/img/New.png" alt="NEW IPTV"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/x441/New-IPTV@latest/refs/heads/main/docs/img/New.png" alt="NEW IPTV"></p>
 
 
 
