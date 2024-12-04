@@ -4,6 +4,10 @@ English
   </a>
 </p>
 
+> [!Warning]
+> 仅供参考学习，严禁一切商用，引发一切后果自负！！！
+
+
 <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/x441/New-IPTV@latest/docs/img/New_IPTV_Logo.png" alt="logo" width="35" height="25" /> New IPTV</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/x441/New-IPTV@latest/docs/img/New.png" alt="NEW IPTV"></p>
